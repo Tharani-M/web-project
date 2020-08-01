@@ -1,0 +1,73 @@
+
+.mycontainer{
+    background-color: aqua;
+   
+}
+.myrows{
+    border:5px solid red;
+    
+    padding: 10px;
+}
+.mycols{
+border:5px solid green;
+background-color: yellowgreen;
+
+}
+#mystyle{
+        
+    color:white;
+}
+/*Start:header*/
+#topheader{
+    background-color: rgb(209, 205, 192);
+    border-bottom:solid gray;
+    }
+ .container-fluid{
+     padding-left: 0;
+     padding-right: 0;
+     border-bottom: solid gray;
+     color: white;
+ }  
+nav ul li a{
+     font-size: 1.1rem;
+     font-weight: 500;
+ }
+ /*END:header*/
+  /*STRAT:FOOTER*/
+.full-footer{
+background-color:grey;
+
+}  
+.top-footer p{
+    color:black;
+    font-weight: 500;
+    }
+.top-footer a{
+        color:black;
+        font-weight: 500;
+        }
+.bottom-footer{
+        background-color: rgb(209, 205, 192);
+    }
+.bottom-footer p{
+        color: ivory;
+    }
+    /*END:FOOTER*/
+    /*START:Front1*/
+.f1{
+    background-color: wheat;
+    color:black;
+    
+}
+.f1 a{
+    background-color: wheat;
+    color:black;
+    font-weight: 700;
+}
+.cls{
+    width: 85;
+    height: 65;
+}    
+    /*END:Front*/
+    
+    
